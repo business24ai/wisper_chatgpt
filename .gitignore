@@ -1,0 +1,6 @@
+.DE_STORE
+flagged
+venv*/
+__pycache__
+.idea
+.env
